@@ -1,3 +1,10 @@
-Hola, mundo.
-Añadir cosas
-Cambio desde Github :)
+- Nombre
+- Edad
+- Experiencia ?
+- Lenguaje/tecnología favorito
+
+- ¿Qué te ha traído a programar?
+
+---
+
+- main champ ?
